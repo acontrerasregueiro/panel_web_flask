@@ -1,0 +1,23 @@
+Proyecto final 2 – Panel de administración web dinámico
+
+Se necesita mediante Flask una web para poder crear, listar y eliminar usuarios.
+Podríamos decir una gestión de datos de usuarios.
+
+Ejercicio 1. Crea un formulario web, que permita añadir usuarios mediante Post
+y los almacene en una lista de objetos usuario y los coloque en un fichero de
+formato JSON.
+Cada usuario debe contener:
+    • Email
+    • Nombre
+    • Apellidos
+    • Contraseña
+    • Teléfono
+    • Edad
+
+Ejercicio 2. Crea una web donde se muestre una tabla con todos los usuarios
+que estén creados en el fichero del ejercicio anterior.
+
+Ejercicio 3. Crea un menú para acceder a las dos páginas web anteriores, y
+además, añade la funcionalidad de editar y borrar un elemento de la tabla del
+ejercicio anterior mediante GET.
+No olvides poner en cada página un botón para volver a la página del menú.
